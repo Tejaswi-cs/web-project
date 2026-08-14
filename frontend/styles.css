@@ -30,3 +30,22 @@ body{
     padding : 10px;
     margin-bottom : 15px;
 }
+
+.navbar{
+    text-align: center;
+    border: 3px solid black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: white;
+}
+
+.navbar a{
+    margin-right : 15px;
+    color : grey;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    color : black;
+    text-decoration: underline;
+}
